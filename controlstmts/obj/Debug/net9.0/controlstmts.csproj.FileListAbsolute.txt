@@ -1,0 +1,14 @@
+C:\Users\snara\Documents\wipro\controlstmts\obj\Debug\net9.0\controlstmts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\snara\Documents\wipro\controlstmts\obj\Debug\net9.0\controlstmts.AssemblyInfoInputs.cache
+C:\Users\snara\Documents\wipro\controlstmts\obj\Debug\net9.0\controlstmts.AssemblyInfo.cs
+C:\Users\snara\Documents\wipro\controlstmts\obj\Debug\net9.0\controlstmts.csproj.CoreCompileInputs.cache
+C:\Users\snara\Documents\wipro\controlstmts\bin\Debug\net9.0\controlstmts.exe
+C:\Users\snara\Documents\wipro\controlstmts\bin\Debug\net9.0\controlstmts.deps.json
+C:\Users\snara\Documents\wipro\controlstmts\bin\Debug\net9.0\controlstmts.runtimeconfig.json
+C:\Users\snara\Documents\wipro\controlstmts\bin\Debug\net9.0\controlstmts.dll
+C:\Users\snara\Documents\wipro\controlstmts\bin\Debug\net9.0\controlstmts.pdb
+C:\Users\snara\Documents\wipro\controlstmts\obj\Debug\net9.0\controlstmts.dll
+C:\Users\snara\Documents\wipro\controlstmts\obj\Debug\net9.0\refint\controlstmts.dll
+C:\Users\snara\Documents\wipro\controlstmts\obj\Debug\net9.0\controlstmts.pdb
+C:\Users\snara\Documents\wipro\controlstmts\obj\Debug\net9.0\controlstmts.genruntimeconfig.cache
+C:\Users\snara\Documents\wipro\controlstmts\obj\Debug\net9.0\ref\controlstmts.dll
