@@ -19,7 +19,6 @@ namespace CalculatorOperations // --> namespace declaration
                 int b ;
         //   Console.WriteLine($"Value : {number} ");
         //   Console.WriteLine($"The address : {(int)ptr}");
-        Console.WriteLine("Hello");
                 Console.WriteLine("Enter the first number : ");
                 a =  Convert.ToInt32(Console.ReadLine());
                 Console.WriteLine("Enter the second number : ");
