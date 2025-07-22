@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\snara\\Documents\\wipro\\controlstmts\\controlstmts.csproj": {}
+    "C:\\Users\\snara\\Documents\\WirpoTraining\\controlstmts\\controlstmts.csproj": {}
   },
   "projects": {
-    "C:\\Users\\snara\\Documents\\wipro\\controlstmts\\controlstmts.csproj": {
+    "C:\\Users\\snara\\Documents\\WirpoTraining\\controlstmts\\controlstmts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\snara\\Documents\\wipro\\controlstmts\\controlstmts.csproj",
+        "projectUniqueName": "C:\\Users\\snara\\Documents\\WirpoTraining\\controlstmts\\controlstmts.csproj",
         "projectName": "controlstmts",
-        "projectPath": "C:\\Users\\snara\\Documents\\wipro\\controlstmts\\controlstmts.csproj",
+        "projectPath": "C:\\Users\\snara\\Documents\\WirpoTraining\\controlstmts\\controlstmts.csproj",
         "packagesPath": "C:\\Users\\snara\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\snara\\Documents\\wipro\\controlstmts\\obj\\",
+        "outputPath": "C:\\Users\\snara\\Documents\\WirpoTraining\\controlstmts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\snara\\AppData\\Roaming\\NuGet\\NuGet.Config"

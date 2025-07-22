@@ -1,0 +1,15 @@
+C:\Users\snara\Documents\WirpoTraining\coupons\bin\Debug\net9.0\coupons.exe
+C:\Users\snara\Documents\WirpoTraining\coupons\bin\Debug\net9.0\coupons.deps.json
+C:\Users\snara\Documents\WirpoTraining\coupons\bin\Debug\net9.0\coupons.runtimeconfig.json
+C:\Users\snara\Documents\WirpoTraining\coupons\bin\Debug\net9.0\coupons.dll
+C:\Users\snara\Documents\WirpoTraining\coupons\bin\Debug\net9.0\coupons.pdb
+C:\Users\snara\Documents\WirpoTraining\coupons\obj\Debug\net9.0\coupons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\snara\Documents\WirpoTraining\coupons\obj\Debug\net9.0\coupons.AssemblyInfoInputs.cache
+C:\Users\snara\Documents\WirpoTraining\coupons\obj\Debug\net9.0\coupons.AssemblyInfo.cs
+C:\Users\snara\Documents\WirpoTraining\coupons\obj\Debug\net9.0\coupons.csproj.CoreCompileInputs.cache
+C:\Users\snara\Documents\WirpoTraining\coupons\obj\Debug\net9.0\coupons.sourcelink.json
+C:\Users\snara\Documents\WirpoTraining\coupons\obj\Debug\net9.0\coupons.dll
+C:\Users\snara\Documents\WirpoTraining\coupons\obj\Debug\net9.0\refint\coupons.dll
+C:\Users\snara\Documents\WirpoTraining\coupons\obj\Debug\net9.0\coupons.pdb
+C:\Users\snara\Documents\WirpoTraining\coupons\obj\Debug\net9.0\coupons.genruntimeconfig.cache
+C:\Users\snara\Documents\WirpoTraining\coupons\obj\Debug\net9.0\ref\coupons.dll
