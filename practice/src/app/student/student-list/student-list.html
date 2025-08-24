@@ -1,0 +1,26 @@
+<!-- <h2>Student Management</h2> -->
+
+<!-- Add/Edit Form -->
+<div>
+  <h3>{{ editMode ? 'Edit Student' : 'Add New Student' }}</h3>
+  <input [(ngModel)]="newStudent.name" placeholder="Name" />
+  <input [(ngModel)]="newStudent.course" placeholder="Course" />
+
+  <button *ngIf="!editMode" (click)="addStudent()">Add</button>
+  <button *ngIf="editMode" (click)="updateStudent()">Update</button>
+</div>
+
+<hr />
+
+<!-- Student List -->
+<ul>
+  <li *ngFor="let student of students">
+    {{ student.name | uppercase }} - {{ student.course }}
+    <button (click)="onSelect(student)">View</button>
+    <button (click)="startEdit(student)">Edit</button>
+    <button (click)="deleteStudent(student.id)">Delete</button>
+  </li>
+</ul>
+
+<!-- Detail Component -->
+<app-student-details [student]="selectedStudent"></app-student-details>

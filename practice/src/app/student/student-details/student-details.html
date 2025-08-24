@@ -1,0 +1,9 @@
+<div *ngIf="student">
+  <h3>Details</h3>
+  <p><b>ID:</b> {{ student.id }}</p>
+  <p><b>Name:</b> {{ student.name }}</p>
+  <p><b>Course:</b> {{ student.course }}</p>
+</div>
+<div *ngIf="!student">
+  <p>Select a student to view details.</p>
+</div>
